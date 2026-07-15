@@ -39,7 +39,7 @@ A clean and minimal task management mobile application built with React Native a
 ### Installation
 
 ```bash
-git clone https://github.com/Jandres25/Project_Minimal_ToDoApp_React_Native.git
+git clone https://github.com/jandrescodes/Project_Minimal_ToDoApp_React_Native.git
 cd Project_Minimal_ToDoApp_React_Native
 pnpm install
 ```
